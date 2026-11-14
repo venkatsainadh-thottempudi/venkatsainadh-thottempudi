@@ -1,79 +1,59 @@
-# Hi there, I'm Thottempudi Venkat Sainadh 👋
+# Hi, I'm Venkat Sainadh 👋
 
-## 💫 About Me
+### Aspiring Software Developer | B.Tech CSE Graduate
 
-🎓 B.Tech Graduate in Computer Science & Engineering
-💻 Aspiring Software Engineer with a strong interest in Java and Full Stack Development.
-🌱 Currently learning Advanced Java, Spring Boot, and improving my Data Structures & Algorithms skills.
-🚀 Passionate about building responsive web applications and solving real-world problems.
-🤝 Open to Software Engineer, Java Developer, and Full Stack Developer opportunities.
+I'm a Computer Science graduate interested in building web applications and software solutions. I'm currently refreshing my technical knowledge, strengthening my programming skills, and developing practical projects.
 
----
+### 👨‍💻 About Me
 
-## 🛠️ Tech Stack
+- 🎓 B.Tech in Computer Science and Engineering
+- ☕ Learning and practising Core Java
+- 🗄️ Knowledge of SQL and relational databases
+- 🌐 Familiar with HTML, CSS and JavaScript
+- 🐍 Worked on an AI Code Reviewer project with guidance
+- 📚 Currently improving my problem-solving and development skills
+- 🎯 Looking for entry-level opportunities in software development
 
-### Languages
+### 🛠️ Technical Skills
 
-* Core Java
-* SQL
-* JavaScript
-* HTML5
-* CSS3
+**Programming Languages**
+- Java
+- JavaScript
+- Python (basic/project exposure)
 
-### Tools & Platforms
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
 
-* Git
-* GitHub
-* VS Code
-* Eclipse
+**Database**
+- SQL
 
-### Core Concepts
+**Tools**
+- Git
+- GitHub
+- VS Code
 
-* Object-Oriented Programming (OOP)
-* Collections Framework
-* Exception Handling
-* REST APIs
-* Responsive Web Design
+### 🚀 Project
 
----
+**AI Code Reviewer**
+- Worked on an AI-assisted code review project with guidance.
+- Explored code analysis and automated review concepts.
+- [View Repository](https://github.com/venkatsainadh-thottempudi/ai_code_reviewer)
 
-## 📌 Featured Projects
+### 📚 Currently Learning
 
-### 🌐 Personal Portfolio Website
+- Core Java revision
+- SQL practice
+- JavaScript
+- Data Structures and Algorithms
+- Full Stack Java Development
 
-* Responsive portfolio built with HTML, CSS, JavaScript, and React.
-* Showcases my skills, projects, and contact information.
+### 🤝 Connect With Me
 
-### 🎓 Student Management System
-
-* Console-based application developed using Core Java.
-* Supports Add, Update, Delete, Search, and Display operations.
-* Demonstrates OOP, Collections, and Exception Handling.
-
----
-
-## 📈 Currently Learning
-
-* Advanced Java
-* Spring Boot
-* Data Structures & Algorithms
-* SQL Optimization
-* Git & GitHub Best Practices
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: https://github.com/venkatsainadh-thottempudi
 
 ---
 
-## 🎯 Career Goal
-
-To begin my career as a Software Engineer where I can apply my Java and web development skills, contribute to meaningful projects, and continuously grow as a developer.
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/thottempudi-venkat-sainadh-dev
-* 💻 GitHub: https://github.com/venkatsainadh-thottempudi
-* 📧 Email: sainadh.thottempudi@gmail.com
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ I'm continuously learning, practising, and building my skills to become a better software developer.
