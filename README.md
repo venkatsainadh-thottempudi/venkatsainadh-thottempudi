@@ -51,7 +51,7 @@ I'm a Computer Science graduate interested in building web applications and soft
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/thottempudi-venkat-sainadh-dev/
 - GitHub: https://github.com/venkatsainadh-thottempudi
 
 ---
